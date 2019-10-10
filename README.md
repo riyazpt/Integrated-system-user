@@ -77,5 +77,6 @@ For updating a existing user you can make use of this API.You can’t change the
     "message": "User Updated"
 }
 
+### if composer install not working
 
-
+if the composer install not working properly please unzip vendor.zip folder and replace existing vendor folder
